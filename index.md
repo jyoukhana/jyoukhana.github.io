@@ -1,6 +1,4 @@
 ## John Youkhana
-[me]: https://github.com/jyoukhana/jyoukhana.github.io/raw/master/IMG_0471%20(1).jpeg
-
 Senior at DePaul University pursuing a B.S. in computer science. Currently working as a Technical Specialist at Apple. 
 
 ### Resume
@@ -9,6 +7,6 @@ Senior at DePaul University pursuing a B.S. in computer science. Currently worki
 
 ### Projects
 
-..* [MyMusicApp (iOS Development final project)](https://github.com/jyoukhana/CSC371FinalProject)
+⋅⋅* [MyMusicApp (iOS Development final project)](https://github.com/jyoukhana/CSC371FinalProject)
 
-..* [MIDI Generator](https://github.com/jyoukhana/MIDIGenerator)
+⋅⋅* [MIDI Generator](https://github.com/jyoukhana/MIDIGenerator)
