@@ -4,3 +4,4 @@ Senior at DePaul University pursuing a B.S. in computer science. Currently worki
 
 ### Resume
 
+[Download my resume!](https://github.com/jyoukhana/resume/raw/master/John-Youkhana-Resume.pdf)
