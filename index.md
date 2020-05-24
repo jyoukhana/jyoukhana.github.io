@@ -7,6 +7,6 @@ Senior at DePaul University pursuing a B.S. in computer science. Currently worki
 
 ### Projects
 
-⋅⋅* [MyMusicApp (iOS Development final project)](https://github.com/jyoukhana/CSC371FinalProject)
+[MyMusicApp (iOS Development final project)](https://github.com/jyoukhana/CSC371FinalProject)
 
-⋅⋅* [MIDI Generator](https://github.com/jyoukhana/MIDIGenerator)
+[MIDI Generator](https://github.com/jyoukhana/MIDIGenerator)
